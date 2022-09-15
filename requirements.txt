@@ -1,1 +1,2 @@
-Flask=1.1.2
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+Flask==1.1.2
