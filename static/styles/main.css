@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lucida Handwriting";
+    color: white;
+    background-color: gray;
+    margin: 25px
+  }
+  /*
+   * Formatting the header area
+   */
+  h1 {
+    background-color: #DFB887;
+    height: 35px;
+    width: 100%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  button {
+    border-radius: 12px;
+    background-color: #DFB887;
+    border: 0;
+    font-size: 20px;
+    font-family: "Lucida Handwriting";
+    padding: 8px;
+    color: white;
+  }
